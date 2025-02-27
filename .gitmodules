@@ -2,3 +2,7 @@
 	path = libvgpu
 	url = git@github.com:zzhint/HAMi-core.git
 	branch = zzh
+[submodule "nvidia-container-toolkit"]
+	path = nvidia-container-toolkit
+	url = git@github.com:zzhint/nvidia-container-toolkit.git
+	branch = zzh
