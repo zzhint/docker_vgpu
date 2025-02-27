@@ -1,0 +1,4 @@
+[submodule "libvgpu"]
+	path = libvgpu
+	url = git@github.com:zzhint/HAMi-core.git
+	branch = zzh
